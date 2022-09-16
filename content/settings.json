@@ -4,9 +4,9 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#f4f4f4",
   "logo": "/img/uploads/logo_small.png",
   "name": "Full Vendas",
   "short_name": "vendasfull",
@@ -14,12 +14,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Montserrat",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icon.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#ff0000",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icon.png",
   "store_id": 31495,
   "description": "vendasfull",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icon.png"
 }
