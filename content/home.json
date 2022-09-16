@@ -22,6 +22,37 @@
           "link": "https://vendasfull.com.br/som-audio",
           "alt": "Banner Placas Acúticas Modelos",
           "mobile_img": "/img/uploads/banner-painel-acustico-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_ring_light_2.jpg",
+          "mobile_img": "/img/uploads/31495-banner_ring_light.jpg",
+          "link": "https://vendasfull.com.br/tripes-para-holofote",
+          "alt": "Banner Informativo Holofotes"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-fotografia-fullvendas.jpg",
+          "mobile_img": "/img/uploads/banner-fotografia-fullvendas-mobile.jpg",
+          "link": "https://vendasfull.com.br/estudio-e-iluminacao",
+          "alt": "Banner Fotografica"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-estudio-fullvendas-web.jpg",
+          "mobile_img": "/img/uploads/banner-estudio-fullvendas-mobile.jpg",
+          "link": "https://vendasfull.com.br/estudio-e-iluminacao",
+          "alt": "Banner Produtos Estúdio"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/districuicao_nacional.jpg",
+          "mobile_img": "/img/uploads/banner-distribuicao-nacional-mobile.jpg",
+          "alt": "Banner Distribuição Nacional"
         }
       ]
     },
