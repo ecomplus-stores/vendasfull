@@ -1,5 +1,5 @@
 {
-  "css": ":root{\n   --\n}\n.info-bar{\n  background: var(--light);\n  max-width: 100%;\n}\n.banner-slider{\n  max-width: 100%;\n  height: calc(100vw*var(0.48) - 5px);\n}\n.info-bar .rounded-icon{\n  border: 1px solid var(--dark);\n}\n.info-bar__item{\n  color: var(--dark);\n}\n.info-bar__item:hover{\n  color: var(--dark);\n}\n.info-bar__item::after{\n  background: var(--dark);\n}\n",
+  "css": ":root{\n   --\n}\n.info-bar{\n  background: var(--light);\n  max-width: 100%;\n}\n.banner-slider{\n  max-width: auto;\n  height: auto;\n}\n.info-bar .rounded-icon{\n  border: 1px solid var(--dark);\n}\n.info-bar__item{\n  color: var(--dark);\n}\n.info-bar__item:hover{\n  color: var(--dark);\n}\n.info-bar__item::after{\n  background: var(--dark);\n}\n",
   "html_head": "",
   "html_body": ""
 }
