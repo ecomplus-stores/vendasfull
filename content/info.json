@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Distribuição nacional, Produtos à pronta entrega, Nota fiscal, Envio imediato, Garantia de fábrica."
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 12x sem juros. Seja mais um cliente satisfeito do Full Vendas, pioneira no segmento e a maior fabricante do Brasil."
   },
   "exchange": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Promoções e campanhas todos os meses. Fique ligado!"
   }
 }
