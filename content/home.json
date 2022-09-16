@@ -1,18 +1,27 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Fullvendas",
+  "meta_description": "Os melhores suportes para banners, produtos para audiovisual, casa e decoração e muito mais. ",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "link": "https://vendasfull.netlify.app/fundo-para-conferencia-zoom-home-office-140m-x-110m-articulado",
-          "img": "/img/uploads/banner-copa-fullvendas.jpg",
-          "alt": "Banner promoção copa do mundo"
+          "link": "https://vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
+          "img": "/img/uploads/banner_prateleira.jpg",
+          "alt": "banner prateleira estante",
+          "mobile_img": "/img/uploads/31495-banner_bancada.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-painel-acustico-web.jpg",
+          "link": "https://vendasfull.com.br/som-audio",
+          "alt": "Banner Placas Acúticas Modelos",
+          "mobile_img": "/img/uploads/banner-painel-acustico-mobile.jpg"
         }
       ]
     },
