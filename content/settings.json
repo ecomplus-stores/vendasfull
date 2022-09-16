@@ -1,25 +1,25 @@
 {
-  "store_id": 31495,
-  "name": "vendasfull",
   "domain": "vendasfull.netlify.app",
-  "short_name": "vendasfull",
-  "description": "vendasfull",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Full Vendas",
+  "short_name": "vendasfull",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Montserrat",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#ff0000",
+  "icon": "/img/icon.png",
+  "store_id": 31495,
+  "description": "vendasfull",
+  "large_icon": "/img/large-icon.png"
 }
