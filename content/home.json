@@ -72,7 +72,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<img src=\"/img/uploads/banner-porta_banners_3.jpg\">"
+      "html": "<img src=\"/img/uploads/banner-porta_banners_3.jpg\" alt=\"Banner Porta Banners\">\n  "
     }
   ]
 }
