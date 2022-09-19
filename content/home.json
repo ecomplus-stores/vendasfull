@@ -69,6 +69,10 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "custom-html",
+      "html": "<img src=\"/img/uploads/banner-porta_banners_3.jpg\">"
     }
   ]
 }
