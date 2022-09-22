@@ -89,10 +89,8 @@
       "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-bancada_2.jpg",
-      "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
-      "alt": "Banner Bancada Escrivaninha"
+      "type": "custom-html",
+      "html": "<style>\n  @media (max-width: 575px){\n    .bancada{\n        display:none;\n    }\n  }\n</style>\n\n<a href=\"https://vendasfull.netlify.app/nicho-de-parede-que-vira-escrivaninha-home-office-notebook\">\n  <img class=\"bancada\" src=\"/img/uploads/banner-bancada_2.jpg\" alt=\"Banner Bancada Notebook\">\n</a>"
     },
     {
       "type": "responsive-banner",
