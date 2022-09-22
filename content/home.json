@@ -71,8 +71,53 @@
       "page": 1
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-porta_banners_3.jpg",
+      "link": "https://vendasfull.com.br/porta-banners",
+      "alt": "Banner Porta Banners Projeart",
+      "mobile_img": "/img/uploads/banner-porta-banners-mobile.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-producao-2.jpg",
+      "mobile_img": "/img/uploads/section-producao-mobile.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-prateleira_3.jpg",
+      "mobile_img": "/img/uploads/section-prateleira-mobile.jpg",
+      "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-bancada_2.jpg",
+      "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
+      "alt": "Banner Bancada Escrivaninha"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-fundo-infinito-2.jpg",
+      "mobile_img": "/img/uploads/1.jpg",
+      "link": "https://www.vendasfull.com.br/suporte-para-fundo-infinito",
+      "alt": "Banner Suporte para Fundo Infinito"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-fundo-infinito-detalhes-2.jpg",
+      "mobile_img": "/img/uploads/2.jpg",
+      "link": "https://www.vendasfull.com.br/tecidos-oxford",
+      "alt": "Banner Fundo Infinito Chroma Key"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-fundo-infinito-cores.jpg",
+      "mobile_img": "/img/uploads/3.jpg",
+      "link": "https://www.vendasfull.com.br/tecido-oxford-15m-x-22m",
+      "alt": "Banner Cores de Fundo Infinito"
+    },
+    {
       "type": "custom-html",
-      "html": "<a href=\"https://vendasfull.netlify.app/porta-banners\">\n  <img src=\"/img/uploads/banner-porta_banners_3.jpg\" alt=\"Banner Porta Banners\">\n</a>\n<img src=\"/img/uploads/banner-producao-2.jpg\" alt=\"Banner Produção\">\n\n<a href=\"https://vendasfull.netlify.app/nicho-de-parede-que-vira-escrivaninha-home-office-notebook\">\n  <img src=\"/img/uploads/banner-prateleira_3.jpg\" alt=\"Banner Prateleria\">\n  <img src=\"/img/uploads/banner-bancada_2.jpg\" alt=\"Banner Bancada Notebook\">\n</a>\n\n<a href=\"https://vendasfull.netlify.app/suporte-para-fundo-infinito\">\n  <img src=\"/img/uploads/section-fundo-infinito-2.jpg\" alt=\"Banner Suporte Fundo Infinito\">\n</a>\n\n<a href=\"https://vendasfull.netlify.app/tecidos-oxford\">\n  <img src=\"/img/uploads/section-fundo-infinito-cores.jpg\" alt=\"Banner Cores Tecidos\">\n  <img src=\"/img/uploads/section-fundo-infinito-detalhes-2.jpg\" alt=\"Banner Detalhes Fundo Infinito\">\n</a>  \n\n<a href=\"https://vendasfull.netlify.app/impressao-em-tecido\">\n  <img src=\"/img/uploads/section-fundo-fotografico.jpg\" alt=\"Banner Fundos Fotograficos\">\n</a>\n<a href=\"https://vendasfull.netlify.app/tripes-para-celular\">\n  <img src=\"/img/uploads/section-sup-celular.jpg\" alt=\"Banner Informações Tripés para Celular\">\n  <img src=\"/img/uploads/section-sup-camera.jpg\" alt=\"Banner Suporte para Câmeras\">\n</a>\n<img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n<img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">\n"
+      "html": "<a href=\"https://vendasfull.netlify.app/impressao-em-tecido\">\n    <img src=\"/img/uploads/section-fundo-fotografico.jpg\" alt=\"Banner Fundos Fotograficos\">\n  </a>\n  <a href=\"https://vendasfull.netlify.app/tripes-para-celular\">\n    <img src=\"/img/uploads/section-sup-celular.jpg\" alt=\"Banner Informações Tripés para Celular\">\n    <img src=\"/img/uploads/section-sup-camera.jpg\" alt=\"Banner Suporte para Câmeras\">\n  </a>\n  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
     }
   ]
 }
