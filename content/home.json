@@ -114,8 +114,15 @@
       "alt": "Banner Cores de Fundo Infinito"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-fundo-fotografico.jpg",
+      "link": "https://www.vendasfull.com.br/impressao-em-tecido",
+      "alt": "Banner Fundos FOtográficos Temáticos",
+      "mobile_img": "/img/uploads/section-fundo-fotografico-mobile.jpg"
+    },
+    {
       "type": "custom-html",
-      "html": "<a href=\"https://vendasfull.netlify.app/impressao-em-tecido\">\n    <img src=\"/img/uploads/section-fundo-fotografico.jpg\" alt=\"Banner Fundos Fotograficos\">\n  </a>\n  <a href=\"https://vendasfull.netlify.app/tripes-para-celular\">\n    <img src=\"/img/uploads/section-sup-celular.jpg\" alt=\"Banner Informações Tripés para Celular\">\n    <img src=\"/img/uploads/section-sup-camera.jpg\" alt=\"Banner Suporte para Câmeras\">\n  </a>\n  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
+      "html": "  <a href=\"https://vendasfull.netlify.app/tripes-para-celular\">\n    <img src=\"/img/uploads/section-sup-celular.jpg\" alt=\"Banner Informações Tripés para Celular\">\n    <img src=\"/img/uploads/section-sup-camera.jpg\" alt=\"Banner Suporte para Câmeras\">\n  </a>\n  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
     }
   ]
 }
