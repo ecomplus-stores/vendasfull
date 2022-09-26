@@ -121,8 +121,22 @@
       "mobile_img": "/img/uploads/section-fundo-fotografico-mobile.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-sup-celular.jpg",
+      "link": "https://www.vendasfull.com.br/tripes-para-celular",
+      "alt": "Banner Tripés para Celular",
+      "mobile_img": "/img/uploads/section-sup-celular-mobile.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/section-sup-camera.jpg",
+      "link": "https://www.vendasfull.com.br/tripes-para-celular",
+      "alt": "Banner tripé para webcam",
+      "mobile_img": "/img/uploads/section-sup-camera-mobile.jpg"
+    },
+    {
       "type": "custom-html",
-      "html": "  <a href=\"https://vendasfull.netlify.app/tripes-para-celular\">\n    <img src=\"/img/uploads/section-sup-celular.jpg\" alt=\"Banner Informações Tripés para Celular\">\n    <img src=\"/img/uploads/section-sup-camera.jpg\" alt=\"Banner Suporte para Câmeras\">\n  </a>\n  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
+      "html": "  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
     }
   ]
 }
