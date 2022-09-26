@@ -135,8 +135,16 @@
       "mobile_img": "/img/uploads/section-sup-camera-mobile.jpg"
     },
     {
-      "type": "custom-html",
-      "html": "  <img src=\"/img/uploads/banner-produtos-2.jpg\" alt=\"Banner Produtos\">\n  <img src=\"/img/uploads/banner-grupo-projeart-2.jpg\" alt=\"Sobre Nós\">"
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-produtos-2.jpg",
+      "mobile_img": "/img/uploads/section-produtos-mobile.jpg",
+      "alt": "Banner Variedade de Produtos"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-grupo-projeart-2.jpg",
+      "alt": "Banner Sobre a Projeart",
+      "mobile_img": "/img/uploads/section-grupo-projeart-mobile.jpg"
     }
   ]
 }
