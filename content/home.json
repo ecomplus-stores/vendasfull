@@ -75,76 +75,77 @@
       "img": "/img/uploads/banner-porta_banners_3.webp",
       "link": "https://vendasfull.com.br/porta-banners",
       "alt": "Banner Porta Banners Projeart",
-      "mobile_img": "/img/uploads/banner-porta-banners-mobile.jpg"
+      "mobile_img": "/img/uploads/banner-porta-banners-mobile.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-producao-2.jpg",
-      "mobile_img": "/img/uploads/section-producao-mobile.jpg"
+      "img": "/img/uploads/banner-producao-2.webp",
+      "mobile_img": "/img/uploads/section-producao-mobile.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-prateleira_3.jpg",
-      "mobile_img": "/img/uploads/section-prateleira-mobile.jpg",
-      "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook"
+      "img": "/img/uploads/banner-prateleira_3.webp",
+      "mobile_img": "/img/uploads/section-prateleira-mobile.webp",
+      "link": "https://www.vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
+      "alt": "Banner Prateleira"
     },
     {
       "type": "custom-html",
-      "html": "<style>\n  @media (max-width: 575px){\n    .bancada{\n        display:none;\n    }\n  }\n</style>\n\n<a href=\"https://vendasfull.netlify.app/nicho-de-parede-que-vira-escrivaninha-home-office-notebook\">\n  <img class=\"bancada\" src=\"/img/uploads/banner-bancada_2.jpg\" alt=\"Banner Bancada Notebook\">\n</a>"
+      "html": "<style>\n  @media (max-width: 575px){\n    .bancada{\n        display:none;\n    }\n  }\n</style>\n\n<a href=\"https://vendasfull.netlify.app/nicho-de-parede-que-vira-escrivaninha-home-office-notebook\">\n  <img class=\"bancada\" src=\"/img/uploads/banner-bancada_2.webp\" alt=\"Banner Bancada Notebook\">\n</a>"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-fundo-infinito-2.jpg",
-      "mobile_img": "/img/uploads/1.jpg",
+      "img": "/img/uploads/section-fundo-infinito.webp",
+      "mobile_img": "/img/uploads/section-fundo-infinito-mobile.webp",
       "link": "https://www.vendasfull.com.br/suporte-para-fundo-infinito",
       "alt": "Banner Suporte para Fundo Infinito"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-fundo-infinito-detalhes-2.jpg",
-      "mobile_img": "/img/uploads/2.jpg",
+      "img": "/img/uploads/section-fundo-infinito-chroma.webp",
+      "mobile_img": "/img/uploads/section-fundo-infinito-chroma-mobile.webp",
       "link": "https://www.vendasfull.com.br/tecidos-oxford",
       "alt": "Banner Fundo Infinito Chroma Key"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-fundo-infinito-cores.jpg",
-      "mobile_img": "/img/uploads/3.jpg",
+      "img": "/img/uploads/section-fundo-infinito-cores.webp",
+      "mobile_img": "/img/uploads/section-fundo-infinito-cores-mobile.webp",
       "link": "https://www.vendasfull.com.br/tecido-oxford-15m-x-22m",
       "alt": "Banner Cores de Fundo Infinito"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-fundo-fotografico.jpg",
+      "img": "/img/uploads/section-fundo-fotografico.webp",
       "link": "https://www.vendasfull.com.br/impressao-em-tecido",
       "alt": "Banner Fundos FOtográficos Temáticos",
-      "mobile_img": "/img/uploads/section-fundo-fotografico-mobile.jpg"
+      "mobile_img": "/img/uploads/section-fundo-fotografico-mobile.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-sup-celular.jpg",
+      "img": "/img/uploads/section-sup-celular.webp",
       "link": "https://www.vendasfull.com.br/tripes-para-celular",
       "alt": "Banner Tripés para Celular",
-      "mobile_img": "/img/uploads/section-sup-celular-mobile.jpg"
+      "mobile_img": "/img/uploads/section-sup-celular-mobile.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/section-sup-camera.jpg",
+      "img": "/img/uploads/section-sup-camera.webp",
       "link": "https://www.vendasfull.com.br/tripes-para-celular",
       "alt": "Banner tripé para webcam",
-      "mobile_img": "/img/uploads/section-sup-camera-mobile.jpg"
+      "mobile_img": "/img/uploads/section-sup-camera-mobile.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-produtos-2.jpg",
-      "mobile_img": "/img/uploads/section-produtos-mobile.jpg",
+      "img": "/img/uploads/section-produtos.webp",
+      "mobile_img": "/img/uploads/section-produtos-mobile.webp",
       "alt": "Banner Variedade de Produtos"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-grupo-projeart-2.jpg",
+      "img": "/img/uploads/banner-grupo-projeart-2.webp",
       "alt": "Banner Sobre a Projeart",
-      "mobile_img": "/img/uploads/section-grupo-projeart-mobile.jpg"
+      "mobile_img": "/img/uploads/section-grupo-projeart-mobile.webp"
     }
   ]
 }
