@@ -1,5 +1,5 @@
 {
   "css": ".info-bar{\n  background: #efefef;\n  color: #000;\n}\n.rounded-icon{\n  border: 1px solid #000;\n}\n\n@media (max-width: 576px){\n    .responsive-baner.my-3.my-lg-4{\n      margin-bottom: 0;\n      margin-top: 0;\n    }\n\n    .responsive-baner .container,\n    .custom-html .container{\n        padding: 0;\n    }\n}",
-  "html_head": "",
+  "html_head": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-LTY3QNGTBH\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-LTY3QNGTBH');\n</script>\n",
   "html_body": ""
 }
