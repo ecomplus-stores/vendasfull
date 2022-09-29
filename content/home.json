@@ -10,48 +10,48 @@
         {
           "start": "",
           "end": "",
-          "link": "https://vendasfull.netlify.app/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
-          "img": "/img/uploads/banner_prateleira.jpg",
+          "link": "https://vendasfull.com.br/nicho-de-parede-que-vira-escrivaninha-home-office-notebook",
+          "img": "/img/uploads/banner_prateleira.webp",
           "alt": "banner prateleira estante",
-          "mobile_img": "/img/uploads/31495-banner_bancada.jpg"
+          "mobile_img": "/img/uploads/31495-banner_bancada.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-painel-acustico-web.jpg",
-          "link": "https://vendasfull.netlify.app/som-audio",
+          "img": "/img/uploads/banner-painel-acustico-web.webp",
+          "link": "https://vendasfull.com.br/som-audio",
           "alt": "Banner Placas Acúticas Modelos",
-          "mobile_img": "/img/uploads/banner-painel-acustico-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-painel-acustico-mobile.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_ring_light_2.jpg",
-          "mobile_img": "/img/uploads/31495-banner_ring_light.jpg",
-          "link": "https://vendasfull.netlify.app/tripes-para-holofote",
+          "img": "/img/uploads/banner_ring_light_desktop.webp",
+          "mobile_img": "/img/uploads/banner_ring_light_mobile.webp",
+          "link": "https://vendasfull.com.br/tripes-para-holofote",
           "alt": "Banner Informativo Holofotes"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-fotografia-fullvendas.jpg",
-          "mobile_img": "/img/uploads/banner-fotografia-fullvendas-mobile.jpg",
+          "img": "/img/uploads/banner-fotografia-fullvendas.webp",
+          "mobile_img": "/img/uploads/banner-fotografia-fullvendas-mobile.webp",
           "link": "https://vendasfull.com.br/estudio-e-iluminacao",
           "alt": "Banner Fotografica"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-estudio-fullvendas-web.jpg",
-          "mobile_img": "/img/uploads/banner-estudio-fullvendas-mobile.jpg",
-          "link": "https://vendasfull.netlify.app/estudio-e-iluminacao",
+          "img": "/img/uploads/banner-estudio-fullvendas-web.webp",
+          "mobile_img": "/img/uploads/banner-estudio-fullvendas-mobile.webp",
+          "link": "https://vendasfull.com.br/estudio-e-iluminacao",
           "alt": "Banner Produtos Estúdio"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/districuicao_nacional.jpg",
-          "mobile_img": "/img/uploads/banner-distribuicao-nacional-mobile.jpg",
+          "img": "/img/uploads/districuicao_nacional.webp",
+          "mobile_img": "/img/uploads/banner-distribuicao-nacional-mobile.webp",
           "alt": "Banner Distribuição Nacional"
         }
       ]
