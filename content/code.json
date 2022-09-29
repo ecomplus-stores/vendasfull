@@ -1,5 +1,5 @@
 {
-  "css": "@media (max-width: 576px){\n    .responsive-baner.my-3.my-lg-4{\n      margin-bottom: 0;\n      margin-top: 0;\n    }\n\n    .responsive-baner .container,\n    .custom-html .container{\n        padding: 0;\n    }\n}",
+  "css": ".info-bar{\n  background: #efefef;\n  color: #000;\n}\n.rounded-icon{\n  border: 1px solid #000;\n}\n\n@media (max-width: 576px){\n    .responsive-baner.my-3.my-lg-4{\n      margin-bottom: 0;\n      margin-top: 0;\n    }\n\n    .responsive-baner .container,\n    .custom-html .container{\n        padding: 0;\n    }\n}",
   "html_head": "",
   "html_body": ""
 }
