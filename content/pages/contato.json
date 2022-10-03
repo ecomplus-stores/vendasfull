@@ -2,5 +2,5 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "## **Endereço**\n\n### Praça Domingos Barbosa, 120 \n\n### Vila Canero - São Paulo, SP\n\n### 03191-100\n\n### (11) 91046-2022"
+  "body": "<span style=\"text-align: center;\">\n\n<div class=\"mapouter map-text\">\n    <div class=\"gmap_canvas\" style=\"text-align: center;\">\n      <iframe id=\"gmap_canvas\" src=\"https://maps.google.com/maps?q=120%20pra%C3%A7a%20domingos%20barbosa&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" width=\"300\" height=\"300\" frameborder=\"0\"></iframe>\n    </div>\n  </div>\n\n## **Endereço**\n\n### Praça Domingos Barbosa, 120\n\n### Vila Canero - São Paulo, SP\n\n### 03191-100\n\n### (11) 91046-2022"
 }
