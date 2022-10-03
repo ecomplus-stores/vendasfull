@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "![Logo grupo Projeart](/img/uploads/logo-grupo-projeart-small.png)\n\nSomos fabricantes de porta banners a mais de 20 anos.\nAo longo desses anos adquirindo \nexperiência, \n\nconseguimos expandir nossa \nvariedade de produtos para as mais diversas áreas.\n\nDesde suportes para comunicação visual, como porta banners, tripés para holofotes \n\ne fundos infinitos até artigos de casa e decoração."
+  "body": "![Logo grupo Projeart](/img/uploads/logo-grupo-projeart-small.png)\n\nSomos fabricantes de porta banners a mais de 20 anos.\nAo longo desses anos adquirindo \nexperiência, \n\nconseguimos expandir nossa \nvariedade de produtos para as mais diversas áreas.\n\nDesde suportes para comunicação visual, como porta banners, tripés para holofotes \n\ne fundos infinitos até artigos de casa e decoração.",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<style>\n  .extra-page{\n    margin: 0 auto;\n    text-align: center;\n  }\n</style>"
+    }
+  ]
 }
