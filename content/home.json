@@ -138,6 +138,10 @@
       "img": "/img/uploads/banner-grupo-projeart-2.webp",
       "alt": "Banner Sobre a Projeart",
       "mobile_img": "/img/uploads/section-grupo-projeart-mobile.webp"
+    },
+    {
+      "type": "custom-html",
+      "html": "<img src=\"template/public/img/uploads/avaliacao.png\" alt=\"Avaliação Mercado Livre\">"
     }
   ]
 }
