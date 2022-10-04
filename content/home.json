@@ -135,15 +135,15 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-grupo-projeart-2.webp",
-      "alt": "Banner Sobre a Projeart",
-      "mobile_img": "/img/uploads/section-grupo-projeart-mobile.webp"
-    },
-    {
-      "type": "responsive-banner",
       "mobile_img": "/img/uploads/avaliacao-small.png",
       "img": "/img/uploads/avaliacao.png",
       "alt": "Avaliações Mercado Livre"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-grupo-projeart-2.webp",
+      "alt": "Banner Sobre a Projeart",
+      "mobile_img": "/img/uploads/section-grupo-projeart-mobile.webp"
     }
   ]
 }
