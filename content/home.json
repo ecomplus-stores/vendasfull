@@ -141,7 +141,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<img src=\"template/public/img/uploads/avaliacao.png\" alt=\"Avaliação Mercado Livre\">"
+      "html": "<img src=\"/img/uploads/avaliacao-small.png\" alt=\"Avaliação Mercado Livre\">"
     }
   ]
 }
