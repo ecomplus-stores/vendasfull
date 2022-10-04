@@ -140,8 +140,10 @@
       "mobile_img": "/img/uploads/section-grupo-projeart-mobile.webp"
     },
     {
-      "type": "custom-html",
-      "html": "<img src=\"/img/uploads/avaliacao-small.png\" alt=\"Avaliação Mercado Livre\">"
+      "type": "responsive-banner",
+      "mobile_img": "/img/uploads/avaliacao-small.png",
+      "img": "/img/uploads/avaliacao.png",
+      "alt": "Avaliações Mercado Livre"
     }
   ]
 }
