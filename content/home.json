@@ -135,8 +135,8 @@
     },
     {
       "type": "responsive-banner",
-      "mobile_img": "/img/uploads/avaliacao-small.png",
-      "img": "/img/uploads/avaliacao-banner-2.jpg",
+      "mobile_img": "",
+      "img": "/img/uploads/avaliacao-banner-3.jpg",
       "alt": "Avaliações Mercado Livre"
     },
     {
