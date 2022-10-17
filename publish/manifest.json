@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c104ad46a61275f89712f20cf27b2c82.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.10165a51cfe0cb115b77b12b8b7f02a1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e8577d432197d08bf2d005c5a21c652f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.52e2088289386cdab3fb6e94d1fece34.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.63c09f5336f9bb801f62f090e7734e86.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Full Vendas",
+  "short_name": "Conquistando clientes por todo Brasil com peças selecionadas de fabricação própria.",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Fabricamos Porta Banners, Suportes Fotográficos, Fundos Estampados e Lisos em Tecido, Tripés para Iluminações, Painel Redondo MDF, Impressões Fotográficas, Produtos em Madeira, pioneira no segmento e a maior fabricante do Brasil.",
+  "background_color": "#f4f4f4",
+  "theme_color": "#000000"
+}
